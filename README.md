@@ -1,5 +1,5 @@
 # test-drive-this-itasha
 
-Wow，看起来你发现了这里！
+Wow, it seems you found this place. 
 
-你可以在release中下载PSD，并加工成自己喜欢的模样！
+You can download the PSD from the release and process it into the template you like!
